@@ -1,10 +1,9 @@
-tosca_definitions_version: alien_dsl_2_0_0
+tosca_definitions_version: alien_dsl_3_0_0
 
 metadata:
-  template_name: 48bad4e98989b76f1e86f692addd569e
+  template_name: 06600c82da6b5fdb90e4caedeac4eda6
   template_version: 0.1.0-SNAPSHOT
   template_author: OTC-EU-DE-00000000001000047362_evarnavs
-
 description: ""
 
 imports:
